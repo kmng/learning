@@ -15,25 +15,25 @@
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
-- [X] [Book: How Google Works](https://www.howgoogleworks.net)
-- [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
-- [X] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
-- [X] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
-- [X] [Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
-- [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
-- [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
-- [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+- [ ] [Book: How Google Works](https://www.howgoogleworks.net)
+- [ ] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
+- [ ] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
+- [ ] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
+- [ ] [Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
+- [ ] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
+- [ ] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
+- [ ] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
 - [ ] [Google: Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
-- [X] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-- [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
-- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+- [ ] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+- [ ] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
+- [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 - [ ] [Youtube: SEO Unlocked](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
-	- [X] [Welcome to the SEO Unlocked](https://www.youtube.com/watch?v=Q_lySNxCag0) `0:10:09`
-	- [X] [Introduction to SEO and Why It's Important](https://www.youtube.com/watch?v=pIbQfOcsEsE) `0:10:29`
+	- [ ] [Welcome to the SEO Unlocked](https://www.youtube.com/watch?v=Q_lySNxCag0) `0:10:09`
+	- [ ] [Introduction to SEO and Why It's Important](https://www.youtube.com/watch?v=pIbQfOcsEsE) `0:10:29`
 	- [ ] [Keyword Research Part 1](https://www.youtube.com/watch?v=CYicoAcAi0A) `0:19:20`
 	- [ ] [Keyword Research Part 2](https://www.youtube.com/watch?v=U655ixy-sdE) `0:09:56`
 	- [ ] [On-page and technical SEO Part 1](https://www.youtube.com/watch?v=PXDPqXHLSOY) `0:22:58`
@@ -58,37 +58,37 @@
 
 
 ### Be able to frame a ML problem
-- [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
-- [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
-- [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
-- [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
-- [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
+- [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
+- [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
+- [ ] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
+- [ ] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
+- [ ] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 - [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
-- [X] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
+- [ ] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
 - [ ] [Book: Building Machine Learning Powered Applications: Going from Idea to Product](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/)
-- [X] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
+- [ ] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
-- [X] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)
-- [X] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
-- [X] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
+- [ ] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)
+- [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
+- [ ] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
 - [ ] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
-- [X] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
-- [X] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+- [ ] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
+- [ ] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [ ] [Google: Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
 - [ ] [Google: How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning)
-- [X] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+- [ ] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
 - [ ] [Microsoft: Define an AI strategy to create business value](https://aischool.microsoft.com/en-us/business/learning-paths/define-an-ai-strategy-to-create-business-value)
 - [ ] [Microsoft: Discover ways to foster an AI-ready culture in your business](https://aischool.microsoft.com/en-us/business/learning-paths/discover-ways-to-foster-an-ai-ready-culture-in-your-business)
 - [ ] [Microsoft: Identify guiding principles for responsible AI in your business](https://aischool.microsoft.com/en-us/business/learning-paths/identify-guiding-principles-for-responsible-ai-in-your-business)
 - [ ] [Microsoft: Introduction to AI technology for business leaders](https://aischool.microsoft.com/en-us/business/learning-paths/introduction-to-ai-technology-for-business-leaders)
-- [X] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
+- [ ] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-- [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
-- [X] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
-- [X] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
-- [X] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
-- [X] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
-- [X] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+- [ ] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
+- [ ] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
+- [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
+- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
+- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
+- [ ] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 	- [X] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
 	- [X] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
 	- [X] [Using A.I. to build a better human | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg) `0:44:27`
